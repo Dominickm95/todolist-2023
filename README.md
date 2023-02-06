@@ -1,0 +1,1 @@
+This is a Todo list practice run with a focus on learning JS/CSS 
